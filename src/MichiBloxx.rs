@@ -1,6 +1,6 @@
 
 use Michilib::*;
-
+// weird structure should be the main function in main
 pub fn run() -> () {
 	
 	let x: u128 = now();
